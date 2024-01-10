@@ -60,4 +60,4 @@ def combinations(l, leng):
 die_A=[1,2,3,4,5,6]
 die_B=[1,2,3,4,5,6]
 newdice_a, newdice_b=undoom_dice(die_A, die_B)
-print("DICE A VALUES : ", newdice_a,"DICE B VALUES : ",newdice_b)
+print("DICE A VALUES : ", newdice_a,"\nDICE B VALUES : ",newdice_b)
